@@ -38,28 +38,30 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-#Overview: 
-The Compensation Tree Analyzer is a powerful tool designed to facilitate efficient and accurate calculations of the "Net-positive" within compensation trees, primarily intended for use in network marketing companies. This tool aims to provide comprehensive insights into the profitability and sustainability of compensation structures, enabling companies and distributors to make informed decisions regarding their business strategies.
-
-#Key Features:
-1. Compensation Tree Visualization: The tool will allow users to input the hierarchical structure of their compensation tree, representing the network of distributors and their respective downlines. This visualization aids in understanding the overall structure and flow of compensation within the organization.
-2. Net-positive Calculation: The core functionality of the tool lies in its ability to calculate the "Net-positive" value for each distributor in the compensation tree. 
-
-#Benefits:
-• Informed Decision Making: Distributors and company management can make data-driven decisions regarding business strategies, expansion plans, and resource allocation based on the insights provided by the Compensation Tree Analyzer.
-• Enhanced Transparency: By offering visibility into the financial aspects of the compensation structure, the tool fosters transparency and trust within the network, mitigating potential concerns and disputes related to compensation.
-• Optimized Profitability: Armed with accurate net-positive calculations, distributors can optimize their efforts to maximize profitability while minimizing expenses, leading to improved overall financial performance.
-
-#Target Audience:
-• Network marketing companies seeking to optimize their compensation plans and enhance distributor satisfaction.
-• Distributors within network marketing organizations aiming to assess the financial viability of their business endeavors and make informed decisions.
-
-#Conclusion: 
-The Compensation Tree Analyzer is a comprehensive solution tailored to the needs of network marketing companies, providing a holistic view of compensation structures and empowering stakeholders to drive profitability and sustainability in their business ventures.
+<p align="center">
+	<h3 align="left">Overview:</h3>
+	The Compensation Tree Analyzer is a powerful tool designed to facilitate efficient and accurate calculations of the "Net-positive" within compensation trees, primarily intended for use in network marketing companies. This tool aims to provide comprehensive insights into the profitability and sustainability of compensation structures, enabling companies and distributors to make informed decisions regarding their business strategies.
+	<br/>
+	<h3>Key Features:</h3>
+	1. Compensation Tree Visualization: The tool will allow users to input the hierarchical structure of their compensation tree, representing the network of distributors and their respective downlines. This visualization aids in understanding the overall structure and flow of compensation within the organization.
+	2. Net-positive Calculation: The core functionality of the tool lies in its ability to calculate the "Net-positive" value for each distributor in the compensation tree. 
+	<br/>
+	<h3 align="left">Benefits:</h3>
+	• Informed Decision Making: Distributors and company management can make data-driven decisions regarding business strategies, expansion plans, and resource allocation based on the insights provided by the Compensation Tree Analyzer.
+	• Enhanced Transparency: By offering visibility into the financial aspects of the compensation structure, the tool fosters transparency and trust within the network, mitigating potential concerns and disputes related to compensation.
+	• Optimized Profitability: Armed with accurate net-positive calculations, distributors can optimize their efforts to maximize profitability while minimizing expenses, leading to improved overall financial performance.
+	<br/>
+	<h3 align="left">Target Audience:</h3>
+	• Network marketing companies seeking to optimize their compensation plans and enhance distributor satisfaction.
+	• Distributors within network marketing organizations aiming to assess the financial viability of their business endeavors and make informed decisions.
+	</br>
+	<h3 align="left">Conclusion:</h3> 
+	The Compensation Tree Analyzer is a comprehensive solution tailored to the needs of network marketing companies, providing a holistic view of compensation structures and empowering stakeholders to drive profitability and sustainability in their business ventures.
+</p>
 
 ### Built With
 
-* [![kotlin]][kotlin-url]
+[![kotlin]][kotlin-url]
 
 <p align="right"><a href="#top">Back To Top</a></p>
 
